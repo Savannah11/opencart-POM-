@@ -1,0 +1,6 @@
+2025-03-27 17:31:45 | INFO     | root:27 | 配置日志成功
+2025-03-27 17:31:45 | INFO     | root:42 | 开始测试: test_search_fail[春季上新]
+2025-03-27 17:31:47 | INFO     | root:81 | 进入页面 https://mall.opencart.cn/
+2025-03-27 17:31:48 | INFO     | root:28 | 搜索：'春季上新'
+2025-03-27 17:31:49 | INFO     | bases.basePage:13 | 在元素'//button[contains(@class,'btn btn-primary')]' 输入'春季上新'
+2025-03-27 17:31:50 | INFO     | root:45 | 结束测试: test_search_fail[春季上新]

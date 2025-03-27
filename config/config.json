@@ -1,0 +1,6 @@
+{
+  "base_url":"https://mall.opencart.cn/",
+  "web_driver": "C://Users/WIN/PycharmProjects/chromedriver-win32/chromedriver.exe",
+  "implicitly_wait": "10",
+  "screen_path": "logs/screenshots"
+}

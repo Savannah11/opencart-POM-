@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1117","test_search_fail[\u6625\u5b63\u4e0a\u65b0]","testcases","Thu Mar 27 17:31:48 HKT 2025","failed","Thu Mar 27 17:31:50 HKT 2025","TestSearch","test_search","",""
