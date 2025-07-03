@@ -16,7 +16,7 @@
 ```bash
 # 选择一种适合你项目的安装方式
  或者从源码安装
-git clone https://github.com/Savannah11/opencart-POM.git
-cd /opencart-POM
+git clone git@github.com:Savannah11/opencart-POM-.git
+cd /opencart-POM-
 pip install -r requirements.txt
 ```
